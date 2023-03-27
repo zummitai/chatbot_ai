@@ -1,2 +1,0 @@
-path/to/large/file filter=lfs diff=lfs merge=lfs -text
-[[:space:]]C:/Users/Valentine[[:space:]]Enedah/Desktop/chatbot_ai/processed filter=lfs diff=lfs merge=lfs -text
